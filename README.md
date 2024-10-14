@@ -1,7 +1,4 @@
-# the-da-handbook
-
-
-# Data Architects Handbook
+# The Data Architect Handbook
 
 Welcome to the **Data Architects Handbook**! This repository serves as a comprehensive guide for data architects, providing best practices, design patterns, and practical insights to excel in the field of data architecture.
 
