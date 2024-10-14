@@ -2,18 +2,6 @@
 
 Welcome to the **Data Architects Handbook**! This repository serves as a comprehensive guide for data architects, providing best practices, design patterns, and practical insights to excel in the field of data architecture.
 
-## Table of Contents
-
-1. Introduction
-2. Getting Started
-3. Core Concepts
-4. Design Patterns
-5. Best Practices
-6. Tools and Technologies
-7. Case Studies
-8. Contributing
-9. License
-
 ## Introduction
 
 The Data Architect Handbook is a guide for data architects, covering essential concepts, naming conventions, best practices, and guidelines on data security, quality, and lifecycle management. It includes principles of data modeling, integration, and governance, along with case studies to help build robust, and scalable data systems.
